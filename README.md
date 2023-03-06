@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RedaTr" alt="RedaTr" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-- 🌱 I’m currently learning **flutter,docker**
+- 🌱 I’m currently learning **flutter,docker,django**
 
 - 💬 Ask me about **react, node, javascript, java, J2EE, SQL, PostreSQL, PHP**
 
