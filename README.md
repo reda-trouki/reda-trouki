@@ -18,7 +18,6 @@
 </br>
 
 # 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,graphql,css,html,js,php,nodejs,python,ts,angular,bootstrap,chakraui,chartjs,electron,postman,prisma,redux,svg,express,vue,jquery,flask,react,laravel,tailwind,spring,mongodb,mysql,postgres&theme=light" />
