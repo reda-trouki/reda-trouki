@@ -65,36 +65,10 @@ const reda = {
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
-
-<details>
-<summary>Click to expand!</summary>
-
-### 🚀 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php&theme=light" />
+## 💻 Tech Stack 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php,react,vue,angular,html,css,tailwind,bootstrap,chakraui,redux,nodejs,express,spring,laravel,graphql,flask,mongodb,mysql,postgres,prisma,postman,electron&theme=light" />
 </p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind,bootstrap,chakraui,redux&theme=light" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,graphql,flask&theme=light" />
-</p>
-
-### 🛠 Database & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,postman,electron&theme=light" />
-</p>
-
-</details>
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
