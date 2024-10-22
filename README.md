@@ -65,7 +65,6 @@ const reda = {
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
-## 💻 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php,react,vue,angular,html,css,tailwind,bootstrap,chakraui,redux,nodejs,express,spring,laravel,graphql,flask,mongodb,mysql,postgres,prisma,postman,electron&theme=light" />
 </p>
