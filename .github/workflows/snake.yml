@@ -2,16 +2,21 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual workflow trigger
-  
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+# These permissions are needed for the action to run correctly
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -23,9 +28,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to repository
-        uses: EndBug/add-and-commit@v9
+      - name: Push to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: main
-          message: 'Generate Snake Animation'
-          add: 'dist'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
