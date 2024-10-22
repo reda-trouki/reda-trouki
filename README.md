@@ -26,10 +26,9 @@
 
 ```javascript
 const reda = {
-    pronouns: "He" | "Him",
     location: "Morocco 🌍",
     currentFocus: "Full Stack Development",
-    learning: ["Angular", "Flutter", "Docker"],
+    learning: ["Angular", "React Native", "Docker"],
     askMeAbout: ["Web Dev", "Tech", "App Dev"],
     technologies: {
         frontEnd: {
@@ -39,7 +38,8 @@ const reda = {
         backEnd: {
             js: ["Node", "Express"],
             java: ["Spring Boot"],
-            python: ["Flask"]
+            python: ["Flask"],
+            php: ["Laravel"]
         },
         mobile: ["React Native"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
