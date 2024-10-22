@@ -64,12 +64,12 @@ const reda = {
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php,react,vue,angular,html,css,tailwind,bootstrap,chakraui,redux,nodejs,express,spring,laravel,graphql,flask,mongodb,mysql,postgres,prisma,postman,electron&theme=light" />
 </p>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reda-trouki&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
