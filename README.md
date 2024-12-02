@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="300" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="400" alt="Coding Animation">
 </div>
 
 <h1 align="center">
