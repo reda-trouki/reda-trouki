@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUyY3ZwdGhlYnhzb3V1MjNyZWN0ZDRtZzN6dmdwY3EzZm9rM3Z1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Animation">
+  <img src="pictures/github-banner.png" width="100%" alt="github banner">
 </div>
 
 <h1 align="center">
