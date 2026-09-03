@@ -72,6 +72,8 @@ const reda = {
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">  Tech Stack
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="60" alt="dotnet logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
@@ -159,31 +161,6 @@ const reda = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reda-trouki&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=reda-trouki&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reda-trouki&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reda-trouki&theme=radical" width="100%" />
-</p>
-
-<details>
-<summary>More Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-trouki&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reda-trouki&theme=radical&utcOffset=8" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reda-trouki&theme=radical" />
-</p>
-
-</details>
 
 ## 💭 Random Dev Quote
 <p align="center">
