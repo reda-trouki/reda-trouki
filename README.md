@@ -10,23 +10,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Always+learning+new+technologies;Passionate+about+coding;Building+the+future+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7518&center=true&vCenter=true&width=520&height=40&lines=Full+Stack+Developer;Software+Engineer;Always+learning+new+technologies;Passionate+about+coding;Building+the+future+with+code" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-<!--   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/github-contribution-grid-snake.svg">
-  </picture> -->
+<p align="center">
+  <img src="assets/spider-banner.svg" width="100%" alt="A spider crawling across my profile">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reda-trouki/reda-trouki/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="assets/spider-contributions.svg" width="100%" alt="Halloween contribution graph: a spider webbing up my commits">
 </div>
+
+<img src="assets/spider-divider-1.svg" width="100%" alt="">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
@@ -52,9 +48,12 @@ const reda = {
         misc: ["GraphQL", "Redux", "Prisma"]
     },
     currentlyLearning: "Always something new! 🚀",
+    pet: "🕷️ a spider that grows with every commit I push",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+<img src="assets/spider-divider-2.svg" width="100%" alt="">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with Me
 
@@ -69,6 +68,8 @@ const reda = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<img src="assets/spider-divider-3.svg" width="100%" alt="">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">  Tech Stack
 <div align="center">
@@ -160,21 +161,27 @@ const reda = {
 </div>
 
 
+<img src="assets/spider-divider-1.svg" width="100%" alt="">
+
 ## 💭 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reda-trouki&style=for-the-badge&color=F75C7E" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=reda-trouki&label=Web+visitors&style=for-the-badge&color=FF7518&labelColor=140D24" alt="Profile Views"/>
 </div>
 
----
+<img src="assets/spider-divider-2.svg" width="100%" alt="">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140D24,50:6A2C91,100:FF7518&height=100&section=footer&animation=twinkling" alt="footer wave"/>
 </div>
 
 <p align="center">
   <i>🚀 If you can dream it, you can code it! Let's build something amazing together! 💫</i>
+</p>
+
+<p align="center">
+  <sub>🕸️ The spider above is generated from this repo's commit count. Push more commits and it grows (Spiderling → Juvenile → Subadult → Adult → Giant) 🕷️</sub>
 </p>
