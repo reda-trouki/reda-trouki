@@ -26,32 +26,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-```javascript
-const reda = {
-    location: "Morocco 🌍",
-    currentFocus: "Full Stack Development",
-    learning: ["Angular", "React Native", "Docker"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Tailwind", "Bootstrap", "Chakra UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            java: ["Spring Boot"],
-            python: ["Flask"],
-            php: ["Laravel"]
-        },
-        mobile: ["React Native"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["GraphQL", "Redux", "Prisma"]
-    },
-    currentlyLearning: "Always something new! 🚀",
-    pet: "🕷️ a spider that grows with every commit I push",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<div align="center">
+  <img src="assets/about-card.svg" width="100%" alt="About Reda Trouki: Full Stack Developer from Morocco, focused on full stack development, learning Angular, React Native and Docker. Stack: React, Vue, Angular, Tailwind, Bootstrap, Chakra UI, Node, Express, Spring Boot, Flask, Laravel, React Native, MongoDB, MySQL, PostgreSQL, GraphQL, Redux, Prisma.">
+</div>
 
 <img src="assets/spider-divider-2.svg" width="100%" alt="">
 
