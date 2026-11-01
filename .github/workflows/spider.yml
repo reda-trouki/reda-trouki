@@ -1,0 +1,40 @@
+name: Feed the spider
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/**"
+  schedule:
+    - cron: "0 3 * * *" # refresh the contribution web every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so the commit count is correct
+
+      - name: Generate the growing spider
+        run: python scripts/generate_spider.py
+
+      - name: Generate the Halloween contribution web
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_contrib_web.py
+
+      - name: Commit the updated spider
+        run: |
+          if [[ -n "$(git status --porcelain assets)" ]]; then
+            git config user.name "spider-bot"
+            git config user.email "spider-bot@users.noreply.github.com"
+            git add assets
+            git commit -m "chore: the spider crawls on [skip ci]"
+            git push
+          fi
